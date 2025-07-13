@@ -23,16 +23,18 @@ html, body{
 header{
     background-color: black;
     color: white;
+    min-height: 150px;
     text-align: center;
 }
 header > h1{
+   
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
     font-size: 10vw;
 }
 header > p{
-
+    padding-bottom: 50px;
 }
 a{
     color: white;
